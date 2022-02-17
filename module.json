@@ -1,7 +1,8 @@
 {
     "disableAutoUpdate": false,
     "name": "Auto-Retaliate",
-    "author": "PsykoDev, odukjung",
-    "description": "Auto Retaliate when knock down any class",
-    "servers": [""]
+    "author": "PsykoDev, odukjung, Loliconera",
+    "description": "Automaticamente utiliza Retaliate cuando te derriban en cualquier clase",
+    "servers": ["https://raw.githubusercontent.com/Loliconera/auto-retaliate/master/"],
+    "supportUrl": "https://github.com/Loliconera/auto-retaliate/issues/"
 }

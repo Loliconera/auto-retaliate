@@ -1,8 +1,8 @@
 # Auto-Retaliate
 Auto-Retaliate
 
-# Update
+# Actualizaciones
 - Fix Berserker
 
-## Usage
+## Uso
 ### `retaliate` | `ar`

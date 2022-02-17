@@ -43,7 +43,7 @@ RETALIATE_IDs = [
 		}
 	})
 	
-	mod.hook('S_LOGIN', 14, (event) => {
+	mod.hook('S_LOGIN', 15, (event) => {
       job = (event.templateId - 10101) % 100;
       RETALIATE.id = RETALIATE_IDs[job];
       templateId = event.templateId;
