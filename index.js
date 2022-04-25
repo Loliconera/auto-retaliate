@@ -43,7 +43,7 @@ RETALIATE_IDs = [
 		}
 	})
 	
-	mod.hook('S_LOGIN', 15, (event) => {
+	mod.hook('S_LOGIN', 14, (event) => {
       job = (event.templateId - 10101) % 100;
       RETALIATE.id = RETALIATE_IDs[job];
       templateId = event.templateId;
@@ -55,7 +55,7 @@ RETALIATE_IDs = [
       dest = event.dest;
 	});
 	
-	mod.hook('S_EACH_SKILL_RESULT', 15, (event) => {
+	mod.hook('S_EACH_SKILL_RESULT', 14, (event) => {
 	if(!enabled) return;
     if (event.reaction.skill.id !== (templateId * 100) + 2)
           return;

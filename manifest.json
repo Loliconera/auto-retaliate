@@ -2,13 +2,13 @@
     "files": {
         "README.md": "01be9dd471dbd127253154c80feb83dd472b9ca34e58c950e74c115d965b9125",
         "config.json": "f69597ee6683b54601c39594e93aa5f36cfe01999f3366d8de73f1b529830b9c",
-        "index.js": "21638d8ea4a42038845b139e9a7e40acff7356abe01cb8e0d860833b25934fb4",
+        "index.js": "379495499815084fa1cace73c05d9a30cfc3ae89cdce59abeffcf5c1f8e0ca50",
         "module.json": "4486556ef0f1dd16f916f18f27b9b063607bd928a4698e98ded7de88274c10cf"
     },
     "defs": {
         "C_PLAYER_LOCATION": 5,
         "C_START_SKILL": 7,
-        "S_EACH_SKILL_RESULT": 15,
-        "S_LOGIN": 15
+        "S_EACH_SKILL_RESULT": 14,
+        "S_LOGIN": 14
     }
 }
